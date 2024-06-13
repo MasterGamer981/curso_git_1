@@ -1,4 +1,4 @@
-1 - Os blocos de texto a,b,c são para testar o comando (git add.)
+1 - Os blocos de texto a,b,c são para testar o comando (git add .)
 para adicionar vários arquivos ao mesmo tempo
 
 2 - para adicionar somente um arquivo seria da seguinte maneira. 
