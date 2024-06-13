@@ -1,0 +1,8 @@
+1 - Para enviar um arquivo específico:
+(git commit a.txt -m 'Estou enviando um arquivo de texto')
+
+-m  ==> este comando serve para adicionar um comentário 
+-a  ==> este comando serve para selecionar todos os arquivos  
+
+2 - Para enviar mais de um arquivo:
+(git commit -a -m 'Enviando todos os arquivos')
